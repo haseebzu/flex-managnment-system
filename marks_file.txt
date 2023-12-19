@@ -1,0 +1,35 @@
+
+					student # 216
+
+ First-Name        : Abdul
+ Last-Name         : Haseeb
+ Class             : 10
+ assignment 1 :10
+ assignment 2 :10
+ total_marks 20
+
+					student # 213
+
+ First-Name  : ali
+ Last-Name   : karam
+ Class             : 10
+ assignment 1 :20
+ assignment 2 :20
+ total marks 40
+
+					student # 22
+
+ First-Name        : Talal
+ Last-Name         : akbar
+ Class             : 10
+ assignment 1 :10
+ assignment 2 :10
+ total marks 20
+					student # 21
+
+ First-Name        : kamal
+ Last-Name         : Hussain
+ Class             : 10
+ assignment 1 :40
+ assignment 2 :10
+ total marks 50 

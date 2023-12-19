@@ -1,0 +1,74 @@
+
+					Teacher # 216
+
+ First-Name   : Bilal
+ Last-Name    : kamran
+ Email        : bilalkam@gmail.com
+ Joining-Date : 5
+ Password     : pakistan666
+ CNIC         : 3356337868
+ Gender       : M
+ Qualification: BS IT
+ Contact-No   : 03356337695
+ Date OF Birth: 13/10/10
+ Address      : Madina Town
+ Salary       : 20000
+
+					Teacher # 212
+
+ First-Name   : jamal
+ Last-Name    : Hassan
+ Email        : abrarhass46@gmail.com
+ Joining-Date : 3
+ Password     : pakistan666
+ CNIC         : 03030303
+ Gender       : M
+ Qualification: BS CS
+ Contact-No   : 03356337695
+ Date OF Birth: 13 May
+ Address      : D gorund
+ Salary       : 100000
+
+					Teacher # 90078601
+
+ First-Name   : bilal
+ Last-Name    : haseeb
+ Email        : bilalhasee46@gmail.com
+ Joining-Date : 3
+ Password     : ak
+ CNIC         : 90078601
+ Gender       : M
+ Qualification: MMasters
+ Contact-No   : in
+ Date OF Birth: 12/12/12
+ nee Address  : Phd
+
+					Teacher # 216
+
+ First-Name   : abdullah
+ Last-Name    : hussain
+ Email        : abdullahhussai@gmail.com
+ Joining-Date : 5
+ Password     : pakistan666
+ CNIC         : 3356337868
+ Gender       : M
+ Qualification: BS IT
+ Contact-No   : 03356337695
+ Date OF Birth: 13/10/10
+ Address      : Madina Town
+ Salary       : 20000
+
+					Teacher # 212
+
+ First-Name   : kamil
+ Last-Name    : ismail
+ Email        : kamilismail46@gmail.com
+ Joining-Date : 3
+ Password     : pakistan666
+ CNIC         : 03030303
+ Gender       : M
+ Qualification: BS CS
+ Contact-No   : 03356337695
+ Date OF Birth: 13 May
+ Address      : D gorund
+ Salary       : 100000

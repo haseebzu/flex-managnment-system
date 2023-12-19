@@ -1,0 +1,28 @@
+
+					Course # 1011
+
+ Course-Name  : OOP
+ Course-Code  : 1011
+ Class        : 8
+ Parent-Code  : pf
+
+					Course # 1012
+
+ Course-Name  : PF
+ Course-Code  : 1012
+ Class        : 5
+ Parent-Code  : null
+
+					Course # 1013
+
+ Course-Name  : DLD
+ Course-Code  : 1013
+ Class        : 10
+ Parent-Code  : AP
+
+					Course # 1014
+
+ Course-Name  : C&P 
+ Course-Code  : 1014
+ Class        : 9
+ Parent-Code  : English

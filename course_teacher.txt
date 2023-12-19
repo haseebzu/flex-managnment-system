@@ -1,0 +1,8 @@
+Teacher name :Bilal
+Course name  :PF (mon:first slot,thurs:second slot)
+
+Teacher name :Abubakr
+Course name  :DLD(wed:3rd slot,fri:1st slot)
+
+Teacher name :kamal
+Course name  :DLD(tue:2rd slot,thur:5st slot)

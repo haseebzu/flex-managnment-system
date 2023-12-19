@@ -1,0 +1,34 @@
+
+					student # 22
+
+ First-Name        : Talal
+ Last-Name         : akbar
+ Class             : 10
+ Roll#             : 22
+ Regis-Date        : 13
+ Gender(M/F)       : M
+ Contact NO        : 03356337695
+ Father-Name       : Rashid Hameed
+ Father Profession : rinitng
+ Father Contact No.: 03356337695
+ Fee Submitted     : 100000
+ Blood Group       : A+
+ Enter Address     : Madina Town
+
+					student # 21
+
+ First-Name        : kamal
+ Last-Name         : hussain
+ Class             : 9
+ Roll#             : 21
+ Regis-Date        : 13
+ Gender(M/F)       : M
+ Contact NO        : 03334567896
+ Father-Name       : Javed
+ Father Profession : Business
+ Father Contact No.: 03356535798
+ Fee Submitted     : 200000
+ Blood Group       : B+
+ Enter Address     : Madina Town
+
+

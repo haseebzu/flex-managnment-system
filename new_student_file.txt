@@ -1,0 +1,15 @@
+
+					student # 22
+
+ First-Name  : haseeb
+ Last-Name   : ubair
+ Class             : 10
+ Roll#             : 22
+ Regis-Date        : 13
+ Gender(M/F)       : M
+ Contact NO : 32514
+ Father-Name       : Rashid Hameed
+ Father Profession : rinitng
+ Father Contact No.: 03356337695
+ Fee Submitted     : as
+ Blood Group       : A+
